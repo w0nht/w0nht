@@ -6,6 +6,9 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 
  Profissional com habilidades em desenvolvimento web full-stack.
 
+[![Linkedin](https://img.shields.io/badge/-wandersondias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail Badge](https://img.shields.io/badge/-w0nhtdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w0nhtdev@gmail.com)](mailto:w0nhtdev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/w0nht?label=follow&style=social)](https://github.com/w0nht)
 
 ---
 
@@ -26,9 +29,3 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 ## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0nht&show_icons=true)
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-wandersondias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail Badge](https://img.shields.io/badge/-w0nhtdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w0nhtdev@gmail.com)](mailto:w0nhtdev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/w0nht)
