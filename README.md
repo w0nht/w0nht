@@ -25,7 +25,7 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0nht&show_icons=true)
 
 ## Onde me encontrar
 
