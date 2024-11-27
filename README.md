@@ -10,8 +10,6 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 [![Gmail Badge](https://img.shields.io/badge/-w0nhtdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w0nhtdev@gmail.com)](mailto:w0nhtdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/w0nht?label=follow&style=social)](https://github.com/w0nht)
 
----
-
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
