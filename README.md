@@ -1,4 +1,6 @@
-## 💜 Olá, meu nome é w0nht!
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0nht&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
+
+### 💜 Olá, meu nome é w0nht!
 
 Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubuntu.
 
@@ -10,8 +12,6 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 [![Gmail Badge](https://img.shields.io/badge/-w0nhtdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w0nhtdev@gmail.com)](mailto:w0nhtdev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/w0nht?label=follow&style=social)](https://github.com/w0nht)
 
-## 🚀 Minhas Skills
-
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -21,8 +21,22 @@ Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubunt
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
-## ⭐ GitHub Stats
+###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w0nht&show_icons=true)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+###
