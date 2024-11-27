@@ -1,5 +1,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0nht&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
 
+
 ### 💜 Olá, meu nome é w0nht!
 
 Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubuntu.
