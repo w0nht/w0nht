@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0nht&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
 
 ### 🎓 Estudante de Bacharelado em Inteligência Artificial - UNIFEI
 ### 🚀 Desenvolvedor Full Stack | Analista de Dados | DevOps
