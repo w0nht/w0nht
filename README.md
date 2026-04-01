@@ -1,12 +1,19 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0nht&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
 
-### 💜 Olá, meu nome é Wanderson Dias!
+### 🎓 Estudante de Bacharelado em Inteligência Artificial @ UNIFEI
+### 🚀 Desenvolvedor Full Stack | Analista de Dados | entusiasta de DevOps
 
-Desenvolvedor front-end com experiência em HTML5/CSS3/JS, PHP/SQL e Linux Ubuntu.
+Sou um desenvolvedor apaixonado por resolver problemas complexos através da tecnologia. Atualmente, foco meus estudos em **IA** e **Ciência de Dados**, enquanto construo aplicações robustas com o ecossistema **Node.js** e gerencio infraestruturas em **Linux**.
 
- Criador de interfaces web eficientes com conhecimento em front-end, back-end e Linux.
+---
 
- Profissional com habilidades em desenvolvimento web full-stack.
+### 🛠️ Minhas Tecnologias
+
+- **Linguagens:** Python, C++, TypeScript, JavaScript, PHP
+- **Web:** Node.js, Tailwind CSS, HTML5, CSS3
+- **Infra & DevOps:** Docker, Linux (Ubuntu), Apache, Análise de Redes
+- **Banco de Dados:** MySQL (Modelagem e Otimização)
+- **Outros:** PCP (Planejamento e Controle da Produção)
 
 [![Linkedin](https://img.shields.io/badge/-wandersondias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/wandersondiass?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-w0nhtdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:w0nhtdev@gmail.com)](mailto:w0nhtdev@gmail.com)
