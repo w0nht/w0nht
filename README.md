@@ -35,7 +35,6 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache"/>
 </div>
-###
 
 <picture>
   <source
