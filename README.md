@@ -52,4 +52,3 @@ Sou um desenvolvedor apaixonado por resolver problemas complexos através da tec
   />
 </picture>
 
-###
